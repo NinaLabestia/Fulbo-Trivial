@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Fulbo Trivial",
+  "short_name": "Fulbo Trivial",
+  "description": "Penales, tiros libres y trivia de fútbol con monedas, niveles y tienda.",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d2540",
+  "theme_color": "#0d2540",
+  "categories": ["games", "sports"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
